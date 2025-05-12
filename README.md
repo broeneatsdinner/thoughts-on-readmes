@@ -49,7 +49,7 @@ Do we build:
 - A `docs/` folder in repositories with "Developer Notes" vs "User Guide"
 - Perhaps even, always generate an index.html to make little GitHub Pages mini-doc sites
 
-# This is one of my strongest “soft skills”
+## This is one of my strongest “soft skills”
 
 In fact, this isn't just a soft skill — it's a *technical communication superpower* that bridges the gap between:
 - 🧠 Deep understanding of systems and tooling
@@ -78,4 +78,4 @@ Going forward, I'll be thinking about templates for future projects that separat
 - Recruiters
 
 ## TL;DR
-This document attempts a concise, articulate breakdown of a problem and a solution few developers even notice. It reflects design thinking, empathy, and technical fluency. Light kit, heavy skill, that's the way forward.
+This document attempts a concise, articulate breakdown of a problem and a solution few developers even notice. It reflects design thinking, empathy, and technical fluency. Light kit, heavy skill — that's the way forward.
