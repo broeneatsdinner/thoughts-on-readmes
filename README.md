@@ -46,7 +46,7 @@ This makes an engineer _way_ more hireable — not just as a tool author, but as
 ## How do we move forward?
 Do we build:
 - A dual-purpose README.md format
-- A docs/ folder in repositories with "Developer Notes" vs "User Guide"
+- A `docs/` folder in repositories with "Developer Notes" vs "User Guide"
 - Perhaps even, always generate an index.html to make little GitHub Pages mini-doc sites
 
 # I would probably label this as one of my strong "soft skills"
@@ -68,7 +68,7 @@ Or, more casually in a README bio or project blurb:
 
 > I care deeply about making tools not just powerful, but understandable — every script or service I write comes with clear, structured documentation to help others use, learn, and build on it.
 
-But then we're back to where do we put it, and what audience is looking at it.
+But then we're back to **where** do we put it, and **what** audience is looking at it.
 
 ## Ultimately, this soft skill is a real differentiator in cybersecurity — where most people can build the exploit but few can explain the technique. You’re already doing both.
 
