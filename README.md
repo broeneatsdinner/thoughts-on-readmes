@@ -72,7 +72,7 @@ But then we're back to **where** do we put it, and **what** audience is looking 
 
 ## Ultimately, this soft skill is a real differentiator in cybersecurity — where most people can build the exploit but few can explain the technique. Let's do both.
 
-Going forward, I'll be thinking about templates for future projects that separates sections for:
+Going forward, I'll be thinking about templates for future projects that separate sections for:
 - Users
 - Contributors
 - Recruiters
