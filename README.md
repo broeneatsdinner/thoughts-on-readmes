@@ -58,7 +58,7 @@ In fact, this isn't just a soft skill — it's a *technical communication superp
 
 ## But the challenge remains...
 
-How do I list this (on a resume or profile)?
+How do I list this (on a résumé or profile)?
 
 I could phrase it like:
 - **Technical Communication & Tooling Documentation**  
