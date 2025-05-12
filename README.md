@@ -1,7 +1,7 @@
 # Thoughts on READMEs
 Thinking out loud on technical documentation and audiences.  
 
-## When you build something impactful, don't solely ensure that it flies, but also make sure that it _lands_
+> **When you build something impactful, don't just ensure that it flies; also make sure that it _lands_.**
 
 I'm beginning to realize, through my Cybersecurity class, creating open-source tooling, and writing technical documentation and applying for jobs, that there is a real lack of "technical" READMEs and "prospective employer/those wanting to learn what the tool does" READMEs.
 
